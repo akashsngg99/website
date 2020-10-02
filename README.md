@@ -7,3 +7,4 @@ This is the website for [PySlackers](https://pyslackers.com) that manages invite
 ## Contributing
 
 Features, fixes, and design is always welcomed. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) document and issues to get started!
+update
